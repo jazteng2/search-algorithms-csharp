@@ -1,0 +1,31 @@
+F:\work\Y2S1\COS30019 Intro to AI\Assignments\PartB\bin\Release\netcoreapp5.0\Search.exe
+F:\work\Y2S1\COS30019 Intro to AI\Assignments\PartB\bin\Release\netcoreapp5.0\Search.deps.json
+F:\work\Y2S1\COS30019 Intro to AI\Assignments\PartB\bin\Release\netcoreapp5.0\Search.runtimeconfig.json
+F:\work\Y2S1\COS30019 Intro to AI\Assignments\PartB\bin\Release\netcoreapp5.0\Search.runtimeconfig.dev.json
+F:\work\Y2S1\COS30019 Intro to AI\Assignments\PartB\bin\Release\netcoreapp5.0\Search.dll
+F:\work\Y2S1\COS30019 Intro to AI\Assignments\PartB\bin\Release\netcoreapp5.0\ref\Search.dll
+F:\work\Y2S1\COS30019 Intro to AI\Assignments\PartB\bin\Release\netcoreapp5.0\Search.pdb
+F:\work\Y2S1\COS30019 Intro to AI\Assignments\PartB\obj\Release\netcoreapp5.0\Search.GeneratedMSBuildEditorConfig.editorconfig
+F:\work\Y2S1\COS30019 Intro to AI\Assignments\PartB\obj\Release\netcoreapp5.0\Search.AssemblyInfoInputs.cache
+F:\work\Y2S1\COS30019 Intro to AI\Assignments\PartB\obj\Release\netcoreapp5.0\Search.AssemblyInfo.cs
+F:\work\Y2S1\COS30019 Intro to AI\Assignments\PartB\obj\Release\netcoreapp5.0\Search.csproj.CoreCompileInputs.cache
+F:\work\Y2S1\COS30019 Intro to AI\Assignments\PartB\obj\Release\netcoreapp5.0\Search.dll
+F:\work\Y2S1\COS30019 Intro to AI\Assignments\PartB\obj\Release\netcoreapp5.0\ref\Search.dll
+F:\work\Y2S1\COS30019 Intro to AI\Assignments\PartB\obj\Release\netcoreapp5.0\Search.pdb
+F:\work\Y2S1\COS30019 Intro to AI\Assignments\PartB\obj\Release\netcoreapp5.0\Search.genruntimeconfig.cache
+C:\Assignments\PartB\obj\Release\netcoreapp5.0\Search.GeneratedMSBuildEditorConfig.editorconfig
+C:\Assignments\PartB\obj\Release\netcoreapp5.0\Search.AssemblyInfoInputs.cache
+C:\Assignments\PartB\obj\Release\netcoreapp5.0\Search.AssemblyInfo.cs
+C:\Assignments\PartB\obj\Release\netcoreapp5.0\Search.csproj.CoreCompileInputs.cache
+C:\Assignments\PartB\obj\Release\netcoreapp5.0\Search.dll
+C:\Assignments\PartB\obj\Release\netcoreapp5.0\ref\Search.dll
+C:\Assignments\PartB\obj\Release\netcoreapp5.0\Search.pdb
+C:\Assignments\PartB\bin\Release\netcoreapp5.0\Search.exe
+C:\Assignments\PartB\bin\Release\netcoreapp5.0\Search.deps.json
+C:\Assignments\PartB\bin\Release\netcoreapp5.0\Search.runtimeconfig.json
+C:\Assignments\PartB\bin\Release\netcoreapp5.0\Search.runtimeconfig.dev.json
+C:\Assignments\PartB\bin\Release\netcoreapp5.0\Search.dll
+C:\Assignments\PartB\bin\Release\netcoreapp5.0\ref\Search.dll
+C:\Assignments\PartB\bin\Release\netcoreapp5.0\Search.pdb
+C:\Assignments\PartB\obj\Release\netcoreapp5.0\Search.genruntimeconfig.cache
+C:\Assignments\PartB\obj\Release\netcoreapp5.0\Search.csproj.AssemblyReference.cache
